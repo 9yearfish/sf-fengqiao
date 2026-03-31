@@ -1,7 +1,6 @@
 {
     "name": "aoxiang/sf-express-fengqiao",
     "description": "SF-Express Api SDK",
-    "version": "2.0.0",
     "type": "library",
     "license": "MIT",
     "authors": [
