@@ -1,6 +1,7 @@
 {
     "name": "aoxiang/sf-fengqiao",
     "description": "SF-Express Api SDK",
+    "version": "2.0.0",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -9,10 +10,12 @@
             "email": "mail@aoxiang.me"
         }
     ],
+    "require": {
+        "php": ">=7.2"
+    },
     "autoload": {
         "psr-4": {
             "Aoxiang\\FengQiao\\": "./src"
-
         }
     }
 }
